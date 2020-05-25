@@ -35,6 +35,10 @@
     margin-top: 15px;
 }
 
+.navbar {
+    padding-bottom: 0px;
+}
+
 .navbar-nav a {
     font-family: poppins;
     font-size: 18px;
